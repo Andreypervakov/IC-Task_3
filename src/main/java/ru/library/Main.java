@@ -11,7 +11,7 @@ import static ru.library.SearchOperations.getBookByNameAndAuthor;
 import static ru.library.SortOperations.getBooksByCategory;
 import static ru.library.SortOperations.sortNewspapersByDate;
 
-public class Main {
+public class  Main {
 
     //На этот класс тесты писать не надо. Он демонстрирует работу методов
 
